@@ -1,6 +1,6 @@
 
 To Run:
-Assemble the circuit (see project_layout.PNG) and upload this file to the Arduino.
+Assemble the circuit (see project_layout.PNG) and upload Final_Project.ino to the Arduino.
 
 This program was written for the Arduino/AVR Mega 2560.
 
